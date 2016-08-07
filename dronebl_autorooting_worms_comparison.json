@@ -194,7 +194,7 @@
 	{
 		"name": "dshield_top_1000",
 		"category": "attacks",
-		"ips": 883,
+		"ips": 884,
 		"common": 3
 	},
 	{
@@ -234,6 +234,12 @@
 		"common": 15
 	},
 	{
+		"name": "firehol_anonymous",
+		"category": "anonymizers",
+		"ips": 84552,
+		"common": 1
+	},
+	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 666281609,
@@ -248,7 +254,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1545368,
+		"ips": 1545367,
 		"common": 123
 	},
 	{
@@ -256,6 +262,12 @@
 		"category": "attacks",
 		"ips": 9579881,
 		"common": 466
+	},
+	{
+		"name": "firehol_proxies",
+		"category": "anonymizers",
+		"ips": 26961,
+		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
@@ -468,6 +480,30 @@
 		"common": 2
 	},
 	{
+		"name": "proxyspy",
+		"category": "anonymizers",
+		"ips": 298,
+		"common": 1
+	},
+	{
+		"name": "proxyspy_1d",
+		"category": "anonymizers",
+		"ips": 1274,
+		"common": 1
+	},
+	{
+		"name": "proxyspy_30d",
+		"category": "anonymizers",
+		"ips": 7230,
+		"common": 1
+	},
+	{
+		"name": "proxyspy_7d",
+		"category": "anonymizers",
+		"ips": 3213,
+		"common": 1
+	},
+	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 46137992,
@@ -524,7 +560,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4405,
+		"ips": 4356,
 		"common": 1
 	},
 	{
