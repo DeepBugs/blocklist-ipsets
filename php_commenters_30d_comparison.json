@@ -314,19 +314,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 51807,
+		"ips": 51845,
 		"common": 427
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 330869,
+		"ips": 330873,
 		"common": 823
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 84668,
+		"ips": 84677,
 		"common": 355
 	},
 	{
@@ -356,7 +356,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27016,
+		"ips": 27025,
 		"common": 301
 	},
 	{
@@ -633,24 +633,24 @@
 		"name": "php_dictionary",
 		"category": "spam",
 		"ips": 50,
-		"common": 6
+		"common": 2
 	},
 	{
 		"name": "php_dictionary_1d",
 		"category": "spam",
-		"ips": 50,
-		"common": 6
+		"ips": 93,
+		"common": 7
 	},
 	{
 		"name": "php_dictionary_30d",
 		"category": "spam",
-		"ips": 1180,
-		"common": 58
+		"ips": 1181,
+		"common": 57
 	},
 	{
 		"name": "php_dictionary_7d",
 		"category": "spam",
-		"ips": 307,
+		"ips": 342,
 		"common": 22
 	},
 	{
@@ -864,21 +864,27 @@
 		"common": 188
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2284,
+		"ips": 2279,
 		"common": 9
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 12554,
+		"ips": 12555,
 		"common": 35
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5707,
+		"ips": 5703,
 		"common": 19
 	},
 	{
@@ -950,19 +956,19 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 280,
+		"ips": 283,
 		"common": 4
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 2158,
+		"ips": 2161,
 		"common": 31
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 966,
+		"ips": 969,
 		"common": 10
 	},
 	{
@@ -980,8 +986,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4177,
-		"common": 202
+		"ips": 4187,
+		"common": 200
 	},
 	{
 		"name": "stopforumspam_30d",

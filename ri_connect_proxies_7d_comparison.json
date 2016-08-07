@@ -194,19 +194,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 51807,
+		"ips": 51845,
 		"common": 304
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 330869,
+		"ips": 330873,
 		"common": 471
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 84668,
+		"ips": 84677,
 		"common": 612
 	},
 	{
@@ -230,7 +230,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27016,
+		"ips": 27025,
 		"common": 612
 	},
 	{
@@ -366,16 +366,28 @@
 		"common": 3
 	},
 	{
+		"name": "php_dictionary",
+		"category": "spam",
+		"ips": 50,
+		"common": 1
+	},
+	{
+		"name": "php_dictionary_1d",
+		"category": "spam",
+		"ips": 93,
+		"common": 1
+	},
+	{
 		"name": "php_dictionary_30d",
 		"category": "spam",
-		"ips": 1180,
-		"common": 9
+		"ips": 1181,
+		"common": 10
 	},
 	{
 		"name": "php_dictionary_7d",
 		"category": "spam",
-		"ips": 307,
-		"common": 1
+		"ips": 342,
+		"common": 2
 	},
 	{
 		"name": "php_harvesters_30d",
@@ -548,19 +560,19 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2284,
+		"ips": 2279,
 		"common": 4
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 12554,
+		"ips": 12555,
 		"common": 4
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5707,
+		"ips": 5703,
 		"common": 4
 	},
 	{
@@ -615,24 +627,24 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 7
+		"common": 6
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 280,
+		"ips": 283,
 		"common": 12
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 2158,
+		"ips": 2161,
 		"common": 33
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 966,
+		"ips": 969,
 		"common": 26
 	},
 	{
@@ -650,8 +662,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4177,
-		"common": 76
+		"ips": 4187,
+		"common": 78
 	},
 	{
 		"name": "stopforumspam_30d",
