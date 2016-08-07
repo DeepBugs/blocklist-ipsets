@@ -56,7 +56,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12514,
+		"ips": 12556,
 		"common": 177
 	},
 	{
@@ -74,7 +74,7 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 4372,
+		"ips": 4432,
 		"common": 1
 	},
 	{
@@ -86,25 +86,25 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 3431,
+		"ips": 3427,
 		"common": 30
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 42671,
+		"ips": 42759,
 		"common": 97
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 167479,
+		"ips": 167539,
 		"common": 190
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 97043,
+		"ips": 97073,
 		"common": 154
 	},
 	{
@@ -135,24 +135,24 @@
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 4
+		"common": 2
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 47897,
+		"ips": 48032,
 		"common": 75
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 158039,
+		"ips": 158156,
 		"common": 178
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 118431,
+		"ips": 118468,
 		"common": 149
 	},
 	{
@@ -182,49 +182,49 @@
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 88832,
+		"ips": 88320,
 		"common": 2
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1474304,
+		"ips": 1475072,
 		"common": 9
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 422656,
+		"ips": 422912,
 		"common": 4
 	},
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 51587,
+		"ips": 51711,
 		"common": 97
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 330704,
+		"ips": 330790,
 		"common": 202
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 109647,
+		"ips": 109133,
 		"common": 384
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1543241,
+		"ips": 1544054,
 		"common": 10
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9579625,
+		"ips": 9579681,
 		"common": 179
 	},
 	{
@@ -262,6 +262,12 @@
 		"category": "unroutable",
 		"ips": 666661539,
 		"common": 9
+	},
+	{
+		"name": "iblocklist_ciarmy_malicious",
+		"category": "reputation",
+		"ips": 4093,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_edu",
