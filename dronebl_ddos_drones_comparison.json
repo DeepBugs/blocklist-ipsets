@@ -38,7 +38,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12627,
+		"ips": 12630,
 		"common": 25
 	},
 	{
@@ -242,7 +242,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9579758,
+		"ips": 9579761,
 		"common": 30
 	},
 	{
@@ -705,6 +705,12 @@
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
 		"ips": 1538,
+		"common": 1
+	},
+	{
+		"name": "turris_greylist",
+		"category": "reputation",
+		"ips": 38168,
 		"common": 1
 	}
 ]
