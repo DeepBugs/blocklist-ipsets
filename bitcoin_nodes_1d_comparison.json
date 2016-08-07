@@ -15,7 +15,7 @@
 		"name": "bbcan177_ms1",
 		"category": "malware",
 		"ips": 5268052,
-		"common": 7
+		"common": 6
 	},
 	{
 		"name": "bbcan177_ms3",
@@ -74,20 +74,20 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4506,
-		"common": 4506
+		"ips": 4492,
+		"common": 4492
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 25237,
-		"common": 5788
+		"ips": 25240,
+		"common": 5791
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10575,
-		"common": 5788
+		"ips": 10577,
+		"common": 5791
 	},
 	{
 		"name": "blocklist_de",
@@ -282,27 +282,21 @@
 		"common": 1
 	},
 	{
-		"name": "dshield",
-		"category": "attacks",
-		"ips": 5120,
-		"common": 1
-	},
-	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 91136,
+		"ips": 90368,
 		"common": 15
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1475584,
-		"common": 95
+		"ips": 1475328,
+		"common": 96
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 427520,
+		"ips": 428032,
 		"common": 41
 	},
 	{
@@ -351,19 +345,19 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 666273684,
-		"common": 11
+		"common": 10
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 111350,
+		"ips": 110583,
 		"common": 16
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1544373,
-		"common": 106
+		"ips": 1544117,
+		"common": 107
 	},
 	{
 		"name": "firehol_level4",
@@ -435,7 +429,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 272
+		"common": 273
 	},
 	{
 		"name": "iblocklist_cidr_report_bogons",
@@ -453,7 +447,7 @@
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227983648,
-		"common": 66
+		"common": 65
 	},
 	{
 		"name": "iblocklist_fornonlancomputers",
@@ -555,7 +549,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762691761,
-		"common": 201
+		"common": 202
 	},
 	{
 		"name": "iblocklist_level2",
@@ -711,7 +705,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373245849,
-		"common": 1226
+		"common": 1227
 	},
 	{
 		"name": "sorbs_noserver",
@@ -735,7 +729,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 141
+		"common": 140
 	},
 	{
 		"name": "sp_atma",
