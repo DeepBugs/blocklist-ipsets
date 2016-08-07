@@ -123,19 +123,19 @@
 		"name": "cleantalk_1d",
 		"category": "abuse",
 		"ips": 42876,
-		"common": 674
+		"common": 675
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 167685,
-		"common": 1152
+		"common": 1154
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
 		"ips": 97142,
-		"common": 1082
+		"common": 1084
 	},
 	{
 		"name": "cleantalk_new",
@@ -171,19 +171,19 @@
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
 		"ips": 48173,
-		"common": 671
+		"common": 672
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
 		"ips": 158466,
-		"common": 1150
+		"common": 1152
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
 		"ips": 118475,
-		"common": 1098
+		"common": 1100
 	},
 	{
 		"name": "cybercrime",
@@ -207,7 +207,7 @@
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
 		"ips": 246961,
-		"common": 645
+		"common": 646
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -261,19 +261,19 @@
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
 		"ips": 51901,
-		"common": 774
+		"common": 775
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 331034,
-		"common": 1257
+		"common": 1259
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 84588,
-		"common": 2212
+		"ips": 84590,
+		"common": 2216
 	},
 	{
 		"name": "firehol_level2",
@@ -296,8 +296,8 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27000,
-		"common": 2217
+		"ips": 27002,
+		"common": 2221
 	},
 	{
 		"name": "firehol_webserver",
@@ -381,7 +381,7 @@
 		"name": "iblocklist_isp_qwest",
 		"category": "organizations",
 		"ips": 15777552,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "iblocklist_isp_suddenlink",
@@ -633,24 +633,24 @@
 		"name": "proxyspy",
 		"category": "anonymizers",
 		"ips": 300,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "proxyspy_1d",
 		"category": "anonymizers",
-		"ips": 1294,
+		"ips": 1242,
 		"common": 6
 	},
 	{
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
-		"ips": 7258,
+		"ips": 7259,
 		"common": 20
 	},
 	{
 		"name": "proxyspy_7d",
 		"category": "anonymizers",
-		"ips": 3227,
+		"ips": 3226,
 		"common": 17
 	},
 	{
@@ -726,6 +726,12 @@
 		"common": 224
 	},
 	{
+		"name": "satellite",
+		"category": "geolocation",
+		"ips": 648229,
+		"common": 1
+	},
+	{
 		"name": "sblam",
 		"category": "abuse",
 		"ips": 6158,
@@ -746,14 +752,14 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 12552,
-		"common": 2265
+		"ips": 12554,
+		"common": 2269
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5702,
-		"common": 2265
+		"ips": 5706,
+		"common": 2269
 	},
 	{
 		"name": "sorbs_anonymizers",
@@ -765,7 +771,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373245849,
-		"common": 442
+		"common": 443
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -783,7 +789,7 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 1288467,
-		"common": 1021
+		"common": 1023
 	},
 	{
 		"name": "sorbs_web",
@@ -795,7 +801,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 202
+		"common": 206
 	},
 	{
 		"name": "sslproxies",
@@ -825,31 +831,31 @@
 		"name": "stopforumspam",
 		"category": "abuse",
 		"ips": 167311,
-		"common": 716
+		"common": 717
 	},
 	{
 		"name": "stopforumspam_180d",
 		"category": "abuse",
 		"ips": 322382,
-		"common": 744
+		"common": 745
 	},
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4187,
-		"common": 192
+		"ips": 4097,
+		"common": 194
 	},
 	{
 		"name": "stopforumspam_30d",
 		"category": "abuse",
 		"ips": 67685,
-		"common": 650
+		"common": 651
 	},
 	{
 		"name": "stopforumspam_365d",
 		"category": "abuse",
 		"ips": 641017,
-		"common": 766
+		"common": 767
 	},
 	{
 		"name": "stopforumspam_7d",
@@ -861,7 +867,7 @@
 		"name": "stopforumspam_90d",
 		"category": "abuse",
 		"ips": 168045,
-		"common": 716
+		"common": 717
 	},
 	{
 		"name": "talosintel_ipfilter",
