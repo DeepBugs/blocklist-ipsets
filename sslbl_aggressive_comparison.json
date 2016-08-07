@@ -222,6 +222,12 @@
 		"common": 1
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 1
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
 		"ips": 89600,
@@ -230,13 +236,13 @@
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1474816,
+		"ips": 1475072,
 		"common": 54
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 425216,
+		"ips": 426240,
 		"common": 27
 	},
 	{
@@ -434,26 +440,26 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 84633,
+		"ips": 84630,
 		"common": 1
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 666273688,
-		"common": 540
+		"common": 542
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 109778,
+		"ips": 109780,
 		"common": 13
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1543688,
-		"common": 2050
+		"ips": 1543945,
+		"common": 2051
 	},
 	{
 		"name": "firehol_level4",
@@ -807,7 +813,7 @@
 		"name": "sslbl",
 		"category": "malware",
 		"ips": 63,
-		"common": 62
+		"common": 63
 	},
 	{
 		"name": "stopforumspam",
@@ -824,7 +830,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4243,
+		"ips": 4218,
 		"common": 1
 	},
 	{
