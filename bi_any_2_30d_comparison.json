@@ -116,19 +116,19 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4416,
+		"ips": 4413,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 5788,
+		"ips": 5783,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 25280,
+		"ips": 25281,
 		"common": 2
 	},
 	{
@@ -200,25 +200,37 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13642,
-		"common": 440
+		"ips": 13645,
+		"common": 439
+	},
+	{
+		"name": "blueliv_crimeserver_last",
+		"category": "attacks",
+		"ips": 735,
+		"common": 1
+	},
+	{
+		"name": "blueliv_crimeserver_last_1d",
+		"category": "attacks",
+		"ips": 829,
+		"common": 1
 	},
 	{
 		"name": "blueliv_crimeserver_last_2d",
 		"category": "attacks",
-		"ips": 3111,
+		"ips": 3401,
 		"common": 3
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
 		"category": "attacks",
-		"ips": 31365,
+		"ips": 31401,
 		"common": 29
 	},
 	{
 		"name": "blueliv_crimeserver_last_7d",
 		"category": "attacks",
-		"ips": 7697,
+		"ips": 7821,
 		"common": 9
 	},
 	{
@@ -477,24 +489,24 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 83
+		"common": 68
 	},
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 89344,
-		"common": 280
+		"ips": 90880,
+		"common": 281
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1469440,
-		"common": 1349
+		"ips": 1469952,
+		"common": 1350
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 437504,
+		"ips": 435456,
 		"common": 646
 	},
 	{
@@ -555,7 +567,7 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 666281612,
-		"common": 151
+		"common": 136
 	},
 	{
 		"name": "firehol_level2",
@@ -572,8 +584,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9580577,
-		"common": 1568
+		"ips": 9580579,
+		"common": 1567
 	},
 	{
 		"name": "firehol_proxies",
@@ -920,8 +932,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 13135,
-		"common": 387
+		"ips": 13327,
+		"common": 378
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1430,8 +1442,8 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 9277,
-		"common": 244
+		"ips": 8381,
+		"common": 239
 	},
 	{
 		"name": "threatcrowd",
