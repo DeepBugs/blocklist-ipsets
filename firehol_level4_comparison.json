@@ -236,43 +236,43 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 20443,
-		"common": 911
+		"ips": 20614,
+		"common": 913
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
 		"ips": 9100,
-		"common": 208
+		"common": 207
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 292,
-		"common": 166
+		"ips": 294,
+		"common": 167
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
 		"ips": 259,
-		"common": 166
+		"common": 165
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 389,
-		"common": 179
+		"ips": 388,
+		"common": 181
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1170,
-		"common": 32
+		"ips": 1175,
+		"common": 33
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 17468,
+		"ips": 17637,
 		"common": 185
 	},
 	{
@@ -284,8 +284,8 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1638,
-		"common": 201
+		"ips": 1639,
+		"common": 202
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -434,25 +434,25 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 3401,
-		"common": 448
+		"ips": 3403,
+		"common": 449
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 42509,
-		"common": 6786
+		"ips": 42272,
+		"common": 6768
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 167673,
-		"common": 14781
+		"ips": 167714,
+		"common": 14784
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 97152,
+		"ips": 97106,
 		"common": 11496
 	},
 	{
@@ -489,25 +489,25 @@
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 387
+		"common": 386
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 47768,
-		"common": 8126
+		"ips": 47474,
+		"common": 8097
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 158520,
-		"common": 20147
+		"ips": 158582,
+		"common": 20150
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 118485,
-		"common": 16349
+		"ips": 118409,
+		"common": 16346
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -824,19 +824,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 51384,
-		"common": 8908
+		"ips": 51067,
+		"common": 8875
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 331037,
-		"common": 22806
+		"ips": 331078,
+		"common": 22809
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 84600,
+		"ips": 84601,
 		"common": 2419
 	},
 	{
@@ -848,8 +848,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 111853,
-		"common": 1691
+		"ips": 112022,
+		"common": 1693
 	},
 	{
 		"name": "firehol_level3",
@@ -860,7 +860,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27012,
+		"ips": 27013,
 		"common": 2118
 	},
 	{
@@ -1653,7 +1653,7 @@
 		"name": "ransomware_feed",
 		"category": "malware",
 		"ips": 1404,
-		"common": 182
+		"common": 181
 	},
 	{
 		"name": "ransomware_locky_c2",
@@ -1761,24 +1761,24 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2288,
+		"ips": 2292,
 		"common": 184
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 12566,
+		"ips": 12563,
 		"common": 639
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5719,
+		"ips": 5717,
 		"common": 294
 	},
 	{
@@ -1869,24 +1869,24 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 19
+		"common": 16
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 278,
+		"ips": 279,
 		"common": 34
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 2161,
+		"ips": 2165,
 		"common": 280
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 968,
+		"ips": 973,
 		"common": 84
 	},
 	{
