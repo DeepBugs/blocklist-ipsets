@@ -8,7 +8,7 @@
 	{
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
-		"ips": 297,
+		"ips": 298,
 		"common": 274
 	},
 	{
@@ -20,14 +20,14 @@
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
-		"ips": 561,
+		"ips": 562,
 		"common": 274
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4457,
-		"common": 270
+		"ips": 4450,
+		"common": 271
 	},
 	{
 		"name": "bitcoin_nodes_1d",
@@ -38,13 +38,13 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 25258,
+		"ips": 25261,
 		"common": 272
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10600,
+		"ips": 10606,
 		"common": 272
 	},
 	{
@@ -110,7 +110,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 84596,
+		"ips": 84594,
 		"common": 1
 	},
 	{
@@ -128,14 +128,14 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9579553,
-		"common": 2
+		"ips": 9579395,
+		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 46353205,
-		"common": 86
+		"common": 87
 	},
 	{
 		"name": "fullbogons",
@@ -165,7 +165,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 18
+		"common": 17
 	},
 	{
 		"name": "iblocklist_cidr_report_bogons",
@@ -183,12 +183,6 @@
 		"name": "iblocklist_fornonlancomputers",
 		"category": "reputation",
 		"ips": 302055424,
-		"common": 1
-	},
-	{
-		"name": "iblocklist_hijacked",
-		"category": "attacks",
-		"ips": 9145088,
 		"common": 1
 	},
 	{
@@ -214,6 +208,12 @@
 		"category": "organizations",
 		"ips": 15777552,
 		"common": 2
+	},
+	{
+		"name": "iblocklist_isp_twc",
+		"category": "organizations",
+		"ips": 15015936,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_isp_verizon",
@@ -273,13 +273,13 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 46137992,
-		"common": 84
+		"common": 85
 	},
 	{
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373245849,
-		"common": 20
+		"common": 21
 	},
 	{
 		"name": "sorbs_noserver",
