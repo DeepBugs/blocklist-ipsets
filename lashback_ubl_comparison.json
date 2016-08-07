@@ -128,13 +128,13 @@
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9111,
+		"ips": 9113,
 		"common": 16
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 212,
+		"ips": 213,
 		"common": 1
 	},
 	{
@@ -152,14 +152,14 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1140,
-		"common": 44
+		"ips": 1147,
+		"common": 45
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 15934,
-		"common": 2327
+		"ips": 15951,
+		"common": 2328
 	},
 	{
 		"name": "blocklist_de_sip",
@@ -170,7 +170,7 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1647,
+		"ips": 1651,
 		"common": 26
 	},
 	{
@@ -218,8 +218,8 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6823,
-		"common": 4
+		"ips": 6813,
+		"common": 3
 	},
 	{
 		"name": "bogons",
@@ -278,8 +278,8 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 4261,
-		"common": 62
+		"ips": 4315,
+		"common": 63
 	},
 	{
 		"name": "cidr_report_bogons",
@@ -465,30 +465,30 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 16
+		"common": 10
 	},
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
 		"ips": 92928,
-		"common": 292
+		"common": 299
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1472512,
-		"common": 10581
+		"ips": 1472768,
+		"common": 10588
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 431872,
-		"common": 2583
+		"ips": 430848,
+		"common": 2592
 	},
 	{
 		"name": "dshield_top_1000",
 		"category": "attacks",
-		"ips": 885,
+		"ips": 886,
 		"common": 1
 	},
 	{
@@ -644,26 +644,26 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 84611,
+		"ips": 84537,
 		"common": 5165
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 666281612,
-		"common": 961
+		"ips": 666281614,
+		"common": 955
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 113147,
-		"common": 2730
+		"ips": 113146,
+		"common": 2737
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1541172,
-		"common": 11708
+		"ips": 1541473,
+		"common": 11716
 	},
 	{
 		"name": "firehol_level4",
@@ -1664,7 +1664,7 @@
 	{
 		"name": "virbl",
 		"category": "spam",
-		"ips": 4,
+		"ips": 3,
 		"common": 1
 	},
 	{
