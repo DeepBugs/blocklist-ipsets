@@ -200,13 +200,13 @@
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9123,
+		"ips": 9124,
 		"common": 36
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 363,
+		"ips": 365,
 		"common": 3
 	},
 	{
@@ -218,14 +218,14 @@
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 401,
+		"ips": 403,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1194,
-		"common": 18
+		"ips": 1198,
+		"common": 17
 	},
 	{
 		"name": "blocklist_de_mail",
@@ -542,7 +542,7 @@
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1481984,
+		"ips": 1481472,
 		"common": 41303
 	},
 	{
@@ -632,13 +632,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 84662,
-		"common": 563
+		"ips": 84667,
+		"common": 565
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 666404748,
+		"ips": 666404747,
 		"common": 39
 	},
 	{
@@ -650,7 +650,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1549240,
+		"ips": 1548728,
 		"common": 41667
 	},
 	{
@@ -662,8 +662,8 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27129,
-		"common": 212
+		"ips": 27134,
+		"common": 214
 	},
 	{
 		"name": "firehol_webserver",
@@ -1328,7 +1328,7 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2374,
+		"ips": 2358,
 		"common": 4
 	},
 	{
@@ -1416,22 +1416,28 @@
 		"common": 65
 	},
 	{
+		"name": "sslproxies",
+		"category": "anonymizers",
+		"ips": 100,
+		"common": 2
+	},
+	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 267,
-		"common": 1
+		"ips": 270,
+		"common": 3
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 2192,
-		"common": 14
+		"ips": 2197,
+		"common": 16
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 990,
-		"common": 5
+		"ips": 995,
+		"common": 7
 	},
 	{
 		"name": "stopforumspam",
@@ -1598,7 +1604,7 @@
 	{
 		"name": "zeus_badips",
 		"category": "malware",
-		"ips": 132,
+		"ips": 131,
 		"common": 2
 	}
 ]
