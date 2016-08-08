@@ -206,13 +206,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1549339,
+		"ips": 1548914,
 		"common": 6
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9582028,
+		"ips": 9582020,
 		"common": 7
 	},
 	{
@@ -278,7 +278,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 38769,
+		"ips": 38783,
 		"common": 7
 	},
 	{
@@ -462,6 +462,12 @@
 		"common": 6
 	},
 	{
+		"name": "snort_ipfilter",
+		"category": "attacks",
+		"ips": 5226,
+		"common": 4
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
 		"ips": 2497,
@@ -578,7 +584,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 5195,
+		"ips": 5226,
 		"common": 4
 	}
 ]
