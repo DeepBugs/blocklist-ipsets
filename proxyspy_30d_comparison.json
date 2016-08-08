@@ -344,13 +344,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 49179,
+		"ips": 49149,
 		"common": 1529
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 333788,
+		"ips": 333814,
 		"common": 4499
 	},
 	{
@@ -368,7 +368,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 120067,
+		"ips": 118819,
 		"common": 180
 	},
 	{
@@ -410,7 +410,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2225,
+		"ips": 2263,
 		"common": 6
 	},
 	{
@@ -602,7 +602,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 37522,
+		"ips": 37461,
 		"common": 46
 	},
 	{
@@ -732,10 +732,22 @@
 		"common": 3
 	},
 	{
+		"name": "php_spammers",
+		"category": "spam",
+		"ips": 50,
+		"common": 1
+	},
+	{
+		"name": "php_spammers_1d",
+		"category": "spam",
+		"ips": 50,
+		"common": 1
+	},
+	{
 		"name": "php_spammers_30d",
 		"category": "spam",
-		"ips": 1199,
-		"common": 27
+		"ips": 1235,
+		"common": 28
 	},
 	{
 		"name": "php_spammers_7d",
