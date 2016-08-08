@@ -158,8 +158,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 21831,
-		"common": 73
+		"ips": 21929,
+		"common": 74
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -284,14 +284,14 @@
 	{
 		"name": "bruteforceblocker",
 		"category": "attacks",
-		"ips": 971,
+		"ips": 966,
 		"common": 17
 	},
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 3459,
-		"common": 257
+		"ips": 3511,
+		"common": 259
 	},
 	{
 		"name": "cidr_report_bogons",
@@ -312,21 +312,27 @@
 		"common": 56
 	},
 	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 3465,
+		"common": 3
+	},
+	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 40826,
-		"common": 72
+		"ips": 40980,
+		"common": 73
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 167972,
+		"ips": 167989,
 		"common": 322
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 97204,
+		"ips": 97142,
 		"common": 202
 	},
 	{
@@ -348,21 +354,27 @@
 		"common": 22
 	},
 	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
+		"common": 3
+	},
+	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 45896,
-		"common": 72
+		"ips": 46111,
+		"common": 73
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 159273,
+		"ips": 159312,
 		"common": 246
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 118272,
+		"ips": 118179,
 		"common": 200
 	},
 	{
@@ -656,13 +668,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 49529,
-		"common": 79
+		"ips": 49716,
+		"common": 80
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 331515,
+		"ips": 331535,
 		"common": 665
 	},
 	{
@@ -680,14 +692,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 112891,
-		"common": 2776
+		"ips": 112988,
+		"common": 2777
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1547628,
-		"common": 50999
+		"ips": 1547672,
+		"common": 51001
 	},
 	{
 		"name": "firehol_level4",
