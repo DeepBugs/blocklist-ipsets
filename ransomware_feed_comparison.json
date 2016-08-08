@@ -8,13 +8,13 @@
 	{
 		"name": "bambenek_pykspa",
 		"category": "malware",
-		"ips": 9,
-		"common": 2
+		"ips": 8,
+		"common": 1
 	},
 	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 120,
+		"ips": 119,
 		"common": 6
 	},
 	{
@@ -50,7 +50,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15264,
+		"ips": 15379,
 		"common": 16
 	},
 	{
@@ -150,39 +150,51 @@
 		"common": 132
 	},
 	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 3413,
+		"common": 1
+	},
+	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 40576,
-		"common": 5
+		"ips": 40492,
+		"common": 6
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 169889,
+		"ips": 169878,
 		"common": 11
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 97685,
+		"ips": 97645,
 		"common": 10
+	},
+	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
+		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 45525,
-		"common": 6
+		"ips": 45494,
+		"common": 7
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 163521,
+		"ips": 163611,
 		"common": 15
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 117965,
+		"ips": 117909,
 		"common": 14
 	},
 	{
@@ -255,7 +267,7 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 1478912,
-		"common": 39
+		"common": 40
 	},
 	{
 		"name": "dshield_7d",
@@ -320,19 +332,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 49259,
-		"common": 7
+		"ips": 49179,
+		"common": 8
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 333787,
+		"ips": 333788,
 		"common": 18
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 85027,
+		"ips": 85022,
 		"common": 1
 	},
 	{
@@ -351,19 +363,19 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 1547223,
-		"common": 71
+		"common": 72
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9582795,
+		"ips": 9582905,
 		"common": 180
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 46353082,
-		"common": 961
+		"common": 963
 	},
 	{
 		"name": "fullbogons",
@@ -405,7 +417,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 19217,
-		"common": 863
+		"common": 865
 	},
 	{
 		"name": "hphosts_exp",
@@ -471,7 +483,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 97
+		"common": 99
 	},
 	{
 		"name": "iblocklist_cidr_report_bogons",
