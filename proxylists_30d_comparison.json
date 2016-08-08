@@ -62,25 +62,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 22395,
-		"common": 203
+		"ips": 22427,
+		"common": 206
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 344,
-		"common": 128
+		"ips": 350,
+		"common": 131
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 401,
+		"ips": 402,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 19350,
+		"ips": 19382,
 		"common": 74
 	},
 	{
@@ -290,7 +290,7 @@
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1481984,
+		"ips": 1481216,
 		"common": 86
 	},
 	{
@@ -338,7 +338,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 84637,
+		"ips": 84640,
 		"common": 9391
 	},
 	{
@@ -350,13 +350,13 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 114187,
-		"common": 214
+		"ips": 114222,
+		"common": 217
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1548988,
+		"ips": 1548221,
 		"common": 134
 	},
 	{
@@ -368,7 +368,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27137,
+		"ips": 27140,
 		"common": 9413
 	},
 	{
@@ -418,6 +418,12 @@
 		"category": "unroutable",
 		"ips": 666661539,
 		"common": 629
+	},
+	{
+		"name": "iblocklist_cruzit_web_attacks",
+		"category": "attacks",
+		"ips": 6094,
+		"common": 4
 	},
 	{
 		"name": "iblocklist_edu",
@@ -596,8 +602,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 38129,
-		"common": 91
+		"ips": 38169,
+		"common": 93
 	},
 	{
 		"name": "nullsecure",
@@ -933,24 +939,24 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 6
+		"common": 9
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2389,
+		"ips": 2400,
 		"common": 131
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 12693,
+		"ips": 12696,
 		"common": 224
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5838,
+		"ips": 5846,
 		"common": 178
 	},
 	{

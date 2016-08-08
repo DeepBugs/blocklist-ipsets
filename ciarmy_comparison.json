@@ -122,8 +122,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 22395,
-		"common": 49
+		"ips": 22427,
+		"common": 48
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -134,19 +134,19 @@
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 401,
+		"ips": 402,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1205,
+		"ips": 1193,
 		"common": 8
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 19350,
+		"ips": 19382,
 		"common": 19
 	},
 	{
@@ -158,8 +158,8 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1601,
-		"common": 4
+		"ips": 1595,
+		"common": 3
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -290,7 +290,7 @@
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1481984,
+		"ips": 1481216,
 		"common": 453
 	},
 	{
@@ -344,13 +344,13 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 114187,
+		"ips": 114222,
 		"common": 251
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1548988,
+		"ips": 1548221,
 		"common": 3511
 	},
 	{
@@ -394,6 +394,12 @@
 		"category": "reputation",
 		"ips": 4093,
 		"common": 3077
+	},
+	{
+		"name": "iblocklist_cruzit_web_attacks",
+		"category": "attacks",
+		"ips": 6094,
+		"common": 2
 	},
 	{
 		"name": "iblocklist_dshield",
@@ -524,7 +530,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 38129,
+		"ips": 38169,
 		"common": 4
 	},
 	{
