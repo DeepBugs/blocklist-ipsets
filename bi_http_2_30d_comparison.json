@@ -162,21 +162,27 @@
 		"common": 75
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 50,
+		"common": 2
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1424,
-		"common": 27
+		"ips": 1428,
+		"common": 26
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 21058,
+		"ips": 21046,
 		"common": 75
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 6843,
+		"ips": 6854,
 		"common": 59
 	},
 	{
@@ -284,7 +290,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6787,
+		"ips": 6814,
 		"common": 75
 	},
 	{
@@ -308,7 +314,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 303768,
+		"ips": 303767,
 		"common": 2
 	},
 	{
@@ -327,12 +333,12 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 10
+		"common": 9
 	},
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 90368,
+		"ips": 90624,
 		"common": 19
 	},
 	{
@@ -344,7 +350,7 @@
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 417536,
+		"ips": 416000,
 		"common": 37
 	},
 	{
@@ -386,7 +392,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 42503,
+		"ips": 42513,
 		"common": 108
 	},
 	{
@@ -398,31 +404,31 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 85204,
+		"ips": 85271,
 		"common": 85
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 666391684,
-		"common": 13
+		"ips": 666391940,
+		"common": 12
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 120080,
+		"ips": 120336,
 		"common": 88
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1549059,
+		"ips": 1549138,
 		"common": 174
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9582692,
+		"ips": 9582680,
 		"common": 282
 	},
 	{
@@ -634,12 +640,6 @@
 		"category": "abuse",
 		"ips": 1818,
 		"common": 7
-	},
-	{
-		"name": "nixspam",
-		"category": "spam",
-		"ips": 38523,
-		"common": 1
 	},
 	{
 		"name": "nullsecure",
@@ -950,7 +950,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 6491,
+		"ips": 6537,
 		"common": 69
 	},
 	{
