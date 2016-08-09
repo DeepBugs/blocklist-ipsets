@@ -86,7 +86,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15016,
+		"ips": 14917,
 		"common": 1
 	},
 	{
@@ -218,14 +218,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 122318,
+		"ips": 121808,
 		"common": 6
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1550251,
-		"common": 2
+		"ips": 1550807,
+		"common": 3
 	},
 	{
 		"name": "firehol_level4",
@@ -326,7 +326,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 38595,
+		"ips": 38603,
 		"common": 3
 	},
 	{
@@ -496,6 +496,12 @@
 		"category": "abuse",
 		"ips": 167981,
 		"common": 12
+	},
+	{
+		"name": "talosintel_ipfilter",
+		"category": "attacks",
+		"ips": 6455,
+		"common": 1
 	},
 	{
 		"name": "turris_greylist",
