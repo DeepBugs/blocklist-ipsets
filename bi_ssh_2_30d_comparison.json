@@ -12,16 +12,28 @@
 		"common": 2
 	},
 	{
+		"name": "atlas_attacks",
+		"category": "attacks",
+		"ips": 10,
+		"common": 1
+	},
+	{
+		"name": "atlas_attacks_2d",
+		"category": "attacks",
+		"ips": 14,
+		"common": 1
+	},
+	{
 		"name": "atlas_attacks_30d",
 		"category": "attacks",
-		"ips": 85,
-		"common": 5
+		"ips": 79,
+		"common": 2
 	},
 	{
 		"name": "atlas_attacks_7d",
 		"category": "attacks",
-		"ips": 32,
-		"common": 1
+		"ips": 27,
+		"common": 2
 	},
 	{
 		"name": "atlas_scans_2d",
@@ -98,25 +110,31 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 25146,
+		"ips": 25141,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 26494,
-		"common": 691
+		"ips": 26485,
+		"common": 689
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9136,
+		"ips": 9135,
 		"common": 4
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 508,
+		"ips": 510,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_ftp",
+		"category": "attacks",
+		"ips": 411,
 		"common": 1
 	},
 	{
@@ -128,7 +146,7 @@
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 23226,
+		"ips": 23221,
 		"common": 21
 	},
 	{
@@ -140,8 +158,8 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1671,
-		"common": 661
+		"ips": 1666,
+		"common": 658
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -152,7 +170,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15441,
+		"ips": 15443,
 		"common": 137
 	},
 	{
@@ -356,7 +374,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 247008,
+		"ips": 247007,
 		"common": 68
 	},
 	{
@@ -476,19 +494,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 119158,
-		"common": 900
+		"ips": 119175,
+		"common": 895
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1548664,
+		"ips": 1548669,
 		"common": 2168
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9582968,
+		"ips": 9582972,
 		"common": 885
 	},
 	{
@@ -788,8 +806,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 37079,
-		"common": 8
+		"ips": 37072,
+		"common": 9
 	},
 	{
 		"name": "nt_ssh_7d",
