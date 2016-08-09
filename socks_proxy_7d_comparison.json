@@ -74,7 +74,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15443,
+		"ips": 15489,
 		"common": 40
 	},
 	{
@@ -96,22 +96,28 @@
 		"common": 2
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 44,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1327,
+		"ips": 1331,
 		"common": 25
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 21007,
-		"common": 263
+		"ips": 21013,
+		"common": 264
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 6790,
-		"common": 110
+		"ips": 6808,
+		"common": 111
 	},
 	{
 		"name": "cleantalk",
@@ -200,7 +206,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6803,
+		"ips": 6769,
 		"common": 2
 	},
 	{
@@ -296,8 +302,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 47837,
-		"common": 911
+		"ips": 47843,
+		"common": 912
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -308,7 +314,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 85121,
+		"ips": 85149,
 		"common": 5854
 	},
 	{
@@ -332,8 +338,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9582972,
-		"common": 302
+		"ips": 9583024,
+		"common": 303
 	},
 	{
 		"name": "firehol_proxies",
@@ -524,8 +530,8 @@
 	{
 		"name": "iw_spamlist",
 		"category": "spam",
-		"ips": 2160,
-		"common": 33
+		"ips": 2178,
+		"common": 34
 	},
 	{
 		"name": "jigsaw_attacks",
@@ -789,25 +795,25 @@
 		"name": "ri_web_proxies",
 		"category": "anonymizers",
 		"ips": 141,
-		"common": 57
+		"common": 43
 	},
 	{
 		"name": "ri_web_proxies_1d",
 		"category": "anonymizers",
-		"ips": 430,
-		"common": 103
+		"ips": 407,
+		"common": 100
 	},
 	{
 		"name": "ri_web_proxies_30d",
 		"category": "anonymizers",
-		"ips": 5091,
-		"common": 841
+		"ips": 5061,
+		"common": 843
 	},
 	{
 		"name": "ri_web_proxies_7d",
 		"category": "anonymizers",
-		"ips": 1591,
-		"common": 380
+		"ips": 1617,
+		"common": 385
 	},
 	{
 		"name": "satellite",
