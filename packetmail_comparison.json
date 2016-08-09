@@ -116,19 +116,19 @@
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 5874,
+		"ips": 5869,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 25100,
+		"ips": 25098,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10478,
+		"ips": 10475,
 		"common": 1
 	},
 	{
@@ -176,7 +176,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15454,
+		"ips": 15455,
 		"common": 18
 	},
 	{
@@ -327,24 +327,24 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 38
+		"common": 6
 	},
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 89344,
+		"ips": 90880,
 		"common": 123
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1485568,
+		"ips": 1487104,
 		"common": 230
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 413952,
+		"ips": 415232,
 		"common": 171
 	},
 	{
@@ -398,8 +398,8 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 666368133,
-		"common": 42
+		"ips": 666368132,
+		"common": 10
 	},
 	{
 		"name": "firehol_level2",
@@ -416,7 +416,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9583077,
+		"ips": 9583075,
 		"common": 36
 	},
 	{
@@ -580,6 +580,12 @@
 		"category": "spam",
 		"ips": 2869680,
 		"common": 38
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 38850,
+		"common": 1
 	},
 	{
 		"name": "nt_ssh_7d",
