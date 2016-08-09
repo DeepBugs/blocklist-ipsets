@@ -14,13 +14,13 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 170367,
+		"ips": 170413,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 71000,
+		"ips": 71030,
 		"common": 1
 	},
 	{
@@ -32,14 +32,14 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 333603,
+		"ips": 333652,
 		"common": 1
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 666391946,
-		"common": 71
+		"common": 70
 	},
 	{
 		"name": "firehol_level3",
@@ -50,7 +50,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9582930,
+		"ips": 9582923,
 		"common": 2
 	},
 	{
@@ -81,7 +81,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "iblocklist_level3",
@@ -102,10 +102,16 @@
 		"common": 5
 	},
 	{
+		"name": "ransomware_feed",
+		"category": "malware",
+		"ips": 1427,
+		"common": 1
+	},
+	{
 		"name": "ransomware_rw",
 		"category": "malware",
 		"ips": 11293,
-		"common": 71
+		"common": 70
 	},
 	{
 		"name": "stopforumspam_toxic",
