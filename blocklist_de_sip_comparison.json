@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 23355,
-		"common": 8
+		"common": 7
 	},
 	{
 		"name": "bds_atif",
@@ -21,13 +21,13 @@
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 8180,
-		"common": 10
+		"common": 9
 	},
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 3912,
-		"common": 10
+		"common": 9
 	},
 	{
 		"name": "bi_ssh_2_30d",
@@ -39,13 +39,13 @@
 		"name": "bi_voip_2_30d",
 		"category": "attacks",
 		"ips": 114,
-		"common": 7
+		"common": 6
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 26492,
-		"common": 47
+		"ips": 26473,
+		"common": 46
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -63,7 +63,7 @@
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 3775,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "dragon_http",
@@ -87,7 +87,7 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 1480704,
-		"common": 18
+		"common": 17
 	},
 	{
 		"name": "dshield_7d",
@@ -110,19 +110,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 120701,
-		"common": 47
+		"ips": 120684,
+		"common": 46
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 1549166,
-		"common": 21
+		"common": 20
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9582989,
+		"ips": 9582958,
 		"common": 13
 	},
 	{
@@ -147,12 +147,6 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 1
-	},
-	{
-		"name": "iblocklist_ciarmy_malicious",
-		"category": "reputation",
-		"ips": 4093,
 		"common": 1
 	},
 	{
@@ -315,12 +309,12 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 38168,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 18093,
-		"common": 30
+		"common": 28
 	}
 ]
