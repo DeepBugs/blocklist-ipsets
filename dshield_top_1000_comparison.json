@@ -158,8 +158,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15128,
-		"common": 19
+		"ips": 15087,
+		"common": 20
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -210,10 +210,28 @@
 		"common": 1
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 54,
+		"common": 1
+	},
+	{
+		"name": "botscout_1d",
+		"category": "abuse",
+		"ips": 1433,
+		"common": 1
+	},
+	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 21052,
-		"common": 2
+		"ips": 21048,
+		"common": 3
+	},
+	{
+		"name": "botscout_7d",
+		"category": "abuse",
+		"ips": 6835,
+		"common": 1
 	},
 	{
 		"name": "bruteforceblocker",
@@ -242,37 +260,37 @@
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 34952,
+		"ips": 34832,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 170181,
+		"ips": 170180,
 		"common": 9
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 96500,
+		"ips": 96479,
 		"common": 8
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 38250,
+		"ips": 38083,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 164867,
+		"ips": 164865,
 		"common": 11
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 115916,
+		"ips": 115877,
 		"common": 9
 	},
 	{
@@ -296,7 +314,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6814,
+		"ips": 6815,
 		"common": 1
 	},
 	{
@@ -392,8 +410,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 42315,
-		"common": 2
+		"ips": 42168,
+		"common": 3
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -404,13 +422,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 85298,
+		"ips": 85356,
 		"common": 1
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 666391946,
+		"ips": 666391944,
 		"common": 20
 	},
 	{
@@ -428,8 +446,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9582761,
-		"common": 90
+		"ips": 9582717,
+		"common": 91
 	},
 	{
 		"name": "firehol_webserver",
@@ -764,7 +782,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 1422,
+		"ips": 1421,
 		"common": 3
 	},
 	{
