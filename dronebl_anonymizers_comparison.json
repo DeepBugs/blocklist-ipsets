@@ -18,6 +18,30 @@
 		"common": 7
 	},
 	{
+		"name": "atlas_scans",
+		"category": "attacks",
+		"ips": 10,
+		"common": 1
+	},
+	{
+		"name": "atlas_scans_2d",
+		"category": "attacks",
+		"ips": 21,
+		"common": 1
+	},
+	{
+		"name": "atlas_scans_30d",
+		"category": "attacks",
+		"ips": 94,
+		"common": 1
+	},
+	{
+		"name": "atlas_scans_7d",
+		"category": "attacks",
+		"ips": 39,
+		"common": 1
+	},
+	{
 		"name": "bbcan177_ms1",
 		"category": "malware",
 		"ips": 5268052,
@@ -122,49 +146,49 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 26473,
-		"common": 593
+		"ips": 26494,
+		"common": 597
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9133,
+		"ips": 9136,
 		"common": 4
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 504,
-		"common": 36
+		"ips": 508,
+		"common": 37
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 335,
+		"ips": 334,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 413,
+		"ips": 411,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1205,
+		"ips": 1201,
 		"common": 6
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 23208,
-		"common": 550
+		"ips": 23226,
+		"common": 553
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1673,
+		"ips": 1671,
 		"common": 1
 	},
 	{
@@ -176,8 +200,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15396,
-		"common": 170
+		"ips": 15441,
+		"common": 169
 	},
 	{
 		"name": "blueliv_crimeserver_last_2d",
@@ -662,8 +686,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9582925,
-		"common": 1219
+		"ips": 9582968,
+		"common": 1218
 	},
 	{
 		"name": "firehol_proxies",
@@ -1592,7 +1616,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 5945,
+		"ips": 5944,
 		"common": 342
 	},
 	{

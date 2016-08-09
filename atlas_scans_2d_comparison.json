@@ -38,20 +38,20 @@
 	{
 		"name": "atlas_scans_30d",
 		"category": "attacks",
-		"ips": 93,
-		"common": 15
+		"ips": 94,
+		"common": 21
 	},
 	{
 		"name": "atlas_scans_7d",
 		"category": "attacks",
-		"ips": 36,
-		"common": 15
+		"ips": 39,
+		"common": 21
 	},
 	{
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 6108,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -120,6 +120,12 @@
 		"common": 1
 	},
 	{
+		"name": "dronebl_anonymizers",
+		"category": "anonymizers",
+		"ips": 247008,
+		"common": 1
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
 		"ips": 90624,
@@ -129,13 +135,13 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 1480960,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 414208,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "dshield_top_1000",
@@ -177,12 +183,12 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 1548664,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9582925,
+		"ips": 9582968,
 		"common": 1
 	},
 	{
@@ -220,6 +226,12 @@
 		"category": "reputation",
 		"ips": 762691761,
 		"common": 2
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 346613099,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_level3",
@@ -285,7 +297,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 38168,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "voipbl",
