@@ -290,13 +290,13 @@
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 92160,
+		"ips": 91136,
 		"common": 69
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1482240,
+		"ips": 1480448,
 		"common": 158
 	},
 	{
@@ -338,7 +338,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 42439,
+		"ips": 42460,
 		"common": 13
 	},
 	{
@@ -350,7 +350,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 85247,
+		"ips": 85252,
 		"common": 1
 	},
 	{
@@ -368,7 +368,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1550844,
+		"ips": 1549056,
 		"common": 200
 	},
 	{
@@ -626,14 +626,20 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 2052,
-		"common": 54
+		"ips": 2048,
+		"common": 56
 	},
 	{
 		"name": "packetmail_carisirt",
 		"category": "reputation",
 		"ips": 550,
 		"common": 13
+	},
+	{
+		"name": "packetmail_mail",
+		"category": "reputation",
+		"ips": 91,
+		"common": 1
 	},
 	{
 		"name": "packetmail_ramnode",
