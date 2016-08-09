@@ -1,5 +1,5 @@
 
-The following list was automatically generated on Sun Aug  7 12:22:34 UTC 2016.
+The following list was automatically generated on Tue Aug  9 12:21:28 UTC 2016.
 
 The update frequency is the maximum allowed by internal configuration. A list will never be downloaded sooner than the update frequency stated. A list may also not be downloaded, after this frequency expired, if it has not been modified on the server (as reported by HTTP `IF_MODIFIED_SINCE` method).
 
@@ -185,7 +185,6 @@ name|info|type|entries|update|
 [id_country_ly](http://iplists.firehol.org/?ipset=id_country_ly)|Libya (LY) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|21 subnets, 330752 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
 [id_country_ma](http://iplists.firehol.org/?ipset=id_country_ma)|Morocco (MA) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|45 subnets, 9894144 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
 [id_country_ma](http://iplists.firehol.org/?ipset=id_country_ma)|Morocco (MA) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|43 subnets, 8843520 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
-[id_country_mc](http://iplists.firehol.org/?ipset=id_country_mc)|Monaco (MC) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|10 subnets, 56576 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
 [id_country_mc](http://iplists.firehol.org/?ipset=id_country_mc)|Monaco (MC) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|10 subnets, 56576 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
 [id_country_md](http://iplists.firehol.org/?ipset=id_country_md)|Republic of Moldova (MD) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|156 subnets, 940800 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
 [id_country_me](http://iplists.firehol.org/?ipset=id_country_me)|Montenegro (ME) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|36 subnets, 221184 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
