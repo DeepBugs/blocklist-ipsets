@@ -38,19 +38,13 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15518,
+		"ips": 15507,
 		"common": 36
 	},
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
 		"ips": 6776,
-		"common": 1
-	},
-	{
-		"name": "botscout",
-		"category": "abuse",
-		"ips": 51,
 		"common": 1
 	},
 	{
@@ -62,13 +56,13 @@
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 21027,
+		"ips": 21037,
 		"common": 36
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 6827,
+		"ips": 6814,
 		"common": 35
 	},
 	{
@@ -144,12 +138,6 @@
 		"common": 2
 	},
 	{
-		"name": "dm_tor",
-		"category": "anonymizers",
-		"ips": 6763,
-		"common": 1
-	},
-	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
 		"ips": 247008,
@@ -162,27 +150,21 @@
 		"common": 1
 	},
 	{
-		"name": "dshield",
-		"category": "attacks",
-		"ips": 5120,
-		"common": 1
-	},
-	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 94464,
+		"ips": 95488,
 		"common": 1
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1483520,
+		"ips": 1485056,
 		"common": 6
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 416768,
+		"ips": 417536,
 		"common": 3
 	},
 	{
@@ -206,7 +188,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 46702,
+		"ips": 46707,
 		"common": 1130
 	},
 	{
@@ -218,31 +200,31 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 85107,
+		"ips": 85161,
 		"common": 53
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 666391711,
-		"common": 5
+		"ips": 666391966,
+		"common": 4
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 123284,
+		"ips": 124302,
 		"common": 64
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1551440,
+		"ips": 1552690,
 		"common": 30
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9583053,
+		"ips": 9583048,
 		"common": 71
 	},
 	{
@@ -344,8 +326,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 37376,
-		"common": 10
+		"ips": 37506,
+		"common": 8
 	},
 	{
 		"name": "php_dictionary",
@@ -512,8 +494,8 @@
 	{
 		"name": "snort_ipfilter",
 		"category": "attacks",
-		"ips": 5226,
-		"common": 12
+		"ips": 6110,
+		"common": 17
 	},
 	{
 		"name": "socks_proxy_1d",
@@ -644,7 +626,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 6082,
+		"ips": 6110,
 		"common": 17
 	},
 	{
