@@ -728,8 +728,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 124006,
-		"common": 2752
+		"ips": 124161,
+		"common": 2760
 	},
 	{
 		"name": "firehol_level3",
@@ -741,7 +741,7 @@
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9583101,
-		"common": 4600
+		"common": 4601
 	},
 	{
 		"name": "firehol_proxies",
@@ -782,8 +782,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 3064,
-		"common": 140
+		"ips": 3245,
+		"common": 149
 	},
 	{
 		"name": "haley_ssh",
@@ -1112,8 +1112,14 @@
 	{
 		"name": "iw_spamlist",
 		"category": "spam",
-		"ips": 2280,
-		"common": 104
+		"ips": 2330,
+		"common": 108
+	},
+	{
+		"name": "iw_wormlist",
+		"category": "spam",
+		"ips": 1,
+		"common": 1
 	},
 	{
 		"name": "jigsaw_attacks",
