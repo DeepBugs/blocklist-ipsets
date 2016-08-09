@@ -1014,7 +1014,7 @@
 [ -f 'ipblacklistcloud_recent_30d.ipset' ] && /bin/touch --date=@1470570260 'ipblacklistcloud_recent_30d.ipset'
 [ -f 'ipblacklistcloud_recent_7d.ipset' ] && /bin/touch --date=@1470321150 'ipblacklistcloud_recent_7d.ipset'
 [ -f 'ipblacklistcloud_top.ipset' ] && /bin/touch --date=@1470367243 'ipblacklistcloud_top.ipset'
-[ -f 'iw_spamlist.ipset' ] && /bin/touch --date=@1470774993 'iw_spamlist.ipset'
+[ -f 'iw_spamlist.ipset' ] && /bin/touch --date=@1470778593 'iw_spamlist.ipset'
 [ -f 'iw_wormlist.ipset' ] && /bin/touch --date=@1470717394 'iw_wormlist.ipset'
 [ -f 'jigsaw_attacks.ipset' ] && /bin/touch --date=@1459665960 'jigsaw_attacks.ipset'
 [ -f 'jigsaw_malware.ipset' ] && /bin/touch --date=@1459665962 'jigsaw_malware.ipset'
