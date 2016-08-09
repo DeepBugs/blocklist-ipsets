@@ -470,14 +470,14 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 29305,
-		"common": 376
+		"ips": 29351,
+		"common": 377
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 334495,
-		"common": 2744
+		"ips": 334526,
+		"common": 2745
 	},
 	{
 		"name": "firehol_anonymous",
@@ -710,7 +710,7 @@
 	{
 		"name": "iw_spamlist",
 		"category": "spam",
-		"ips": 3793,
+		"ips": 3869,
 		"common": 6
 	},
 	{
@@ -846,16 +846,28 @@
 		"common": 1
 	},
 	{
+		"name": "php_dictionary",
+		"category": "spam",
+		"ips": 50,
+		"common": 1
+	},
+	{
+		"name": "php_dictionary_1d",
+		"category": "spam",
+		"ips": 97,
+		"common": 1
+	},
+	{
 		"name": "php_dictionary_30d",
 		"category": "spam",
-		"ips": 1151,
-		"common": 3
+		"ips": 1161,
+		"common": 4
 	},
 	{
 		"name": "php_dictionary_7d",
 		"category": "spam",
-		"ips": 303,
-		"common": 2
+		"ips": 308,
+		"common": 3
 	},
 	{
 		"name": "php_spammers_30d",

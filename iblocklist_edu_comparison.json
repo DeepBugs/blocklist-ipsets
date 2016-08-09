@@ -758,13 +758,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 29305,
-		"common": 143
+		"ips": 29351,
+		"common": 144
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 334495,
+		"ips": 334526,
 		"common": 1374
 	},
 	{
@@ -1142,7 +1142,7 @@
 	{
 		"name": "iw_spamlist",
 		"category": "spam",
-		"ips": 3793,
+		"ips": 3869,
 		"common": 36
 	},
 	{
@@ -1320,16 +1320,28 @@
 		"common": 4
 	},
 	{
+		"name": "php_dictionary",
+		"category": "spam",
+		"ips": 50,
+		"common": 1
+	},
+	{
+		"name": "php_dictionary_1d",
+		"category": "spam",
+		"ips": 97,
+		"common": 1
+	},
+	{
 		"name": "php_dictionary_30d",
 		"category": "spam",
-		"ips": 1151,
-		"common": 14
+		"ips": 1161,
+		"common": 15
 	},
 	{
 		"name": "php_dictionary_7d",
 		"category": "spam",
-		"ips": 303,
-		"common": 7
+		"ips": 308,
+		"common": 8
 	},
 	{
 		"name": "php_harvesters_30d",
@@ -1448,7 +1460,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 1432,
+		"ips": 1431,
 		"common": 32
 	},
 	{
