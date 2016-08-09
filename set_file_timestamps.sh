@@ -1142,7 +1142,7 @@
 [ -f 'voipbl.netset' ] && /bin/touch --date=@1470672515 'voipbl.netset'
 [ -f 'vxvault.ipset' ] && /bin/touch --date=@1470665543 'vxvault.ipset'
 [ -f 'xroxy.ipset' ] && /bin/touch --date=@1470735181 'xroxy.ipset'
-[ -f 'xroxy_1d.ipset' ] && /bin/touch --date=@1470735181 'xroxy_1d.ipset'
+[ -f 'xroxy_1d.ipset' ] && /bin/touch --date=@1470738782 'xroxy_1d.ipset'
 [ -f 'xroxy_30d.ipset' ] && /bin/touch --date=@1470720782 'xroxy_30d.ipset'
 [ -f 'xroxy_7d.ipset' ] && /bin/touch --date=@1470735181 'xroxy_7d.ipset'
 [ -f 'yoyo_adservers.ipset' ] && /bin/touch --date=@1470395284 'yoyo_adservers.ipset'
