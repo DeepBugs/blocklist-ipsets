@@ -2,8 +2,8 @@
 	{
 		"name": "alienvault_reputation",
 		"category": "reputation",
-		"ips": 23355,
-		"common": 436
+		"ips": 23464,
+		"common": 440
 	},
 	{
 		"name": "anonymous",
@@ -758,7 +758,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 85102,
+		"ips": 85104,
 		"common": 497
 	},
 	{
@@ -788,7 +788,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27496,
+		"ips": 27498,
 		"common": 344
 	},
 	{
@@ -1340,25 +1340,25 @@
 	{
 		"name": "proxylists",
 		"category": "anonymizers",
-		"ips": 1277,
+		"ips": 1309,
 		"common": 34
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 2624,
-		"common": 56
+		"ips": 2640,
+		"common": 55
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 9451,
+		"ips": 9444,
 		"common": 156
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 4894,
+		"ips": 4873,
 		"common": 82
 	},
 	{
@@ -1410,21 +1410,27 @@
 		"common": 52
 	},
 	{
+		"name": "proxz",
+		"category": "anonymizers",
+		"ips": 21,
+		"common": 1
+	},
+	{
 		"name": "proxz_1d",
 		"category": "anonymizers",
-		"ips": 271,
+		"ips": 269,
 		"common": 7
 	},
 	{
 		"name": "proxz_30d",
 		"category": "anonymizers",
-		"ips": 2380,
-		"common": 51
+		"ips": 2376,
+		"common": 50
 	},
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
-		"ips": 973,
+		"ips": 972,
 		"common": 21
 	},
 	{
@@ -1786,12 +1792,6 @@
 		"category": "malware",
 		"ips": 69,
 		"common": 3
-	},
-	{
-		"name": "xroxy",
-		"category": "anonymizers",
-		"ips": 64,
-		"common": 1
 	},
 	{
 		"name": "xroxy_1d",
