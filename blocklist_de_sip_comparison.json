@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 23660,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "bds_atif",
@@ -44,13 +44,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29057,
-		"common": 47
+		"ips": 29454,
+		"common": 50
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 95,
+		"ips": 96,
 		"common": 1
 	},
 	{
@@ -62,7 +62,7 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 3087,
+		"ips": 3142,
 		"common": 1
 	},
 	{
@@ -78,28 +78,22 @@
 		"common": 3
 	},
 	{
-		"name": "dshield",
-		"category": "attacks",
-		"ips": 5120,
-		"common": 2
-	},
-	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 85760,
-		"common": 7
+		"ips": 86016,
+		"common": 8
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1480704,
-		"common": 17
+		"ips": 1480960,
+		"common": 18
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 410624,
-		"common": 14
+		"ips": 412416,
+		"common": 15
 	},
 	{
 		"name": "et_botcc",
@@ -114,22 +108,16 @@
 		"common": 1
 	},
 	{
-		"name": "firehol_level1",
-		"category": "attacks",
-		"ips": 666391942,
-		"common": 2
-	},
-	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 117935,
-		"common": 47
+		"ips": 118632,
+		"common": 50
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1549576,
-		"common": 20
+		"ips": 1549873,
+		"common": 21
 	},
 	{
 		"name": "firehol_level4",
@@ -141,13 +129,13 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 46353071,
-		"common": 19
+		"common": 20
 	},
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095117,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "haley_ssh",
@@ -267,7 +255,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 46137992,
-		"common": 18
+		"common": 19
 	},
 	{
 		"name": "sorbs_dul",
@@ -315,6 +303,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 18093,
-		"common": 31
+		"common": 32
 	}
 ]
