@@ -32,8 +32,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 25941,
-		"common": 61
+		"ips": 25916,
+		"common": 62
 	},
 	{
 		"name": "ciarmy",
@@ -69,7 +69,7 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 1497856,
-		"common": 24
+		"common": 25
 	},
 	{
 		"name": "dshield_7d",
@@ -92,14 +92,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 139055,
-		"common": 61
+		"ips": 139042,
+		"common": 62
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 1566704,
-		"common": 26
+		"common": 27
 	},
 	{
 		"name": "firehol_level4",
@@ -124,6 +124,12 @@
 		"category": "attacks",
 		"ips": 21605,
 		"common": 7
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unroutable",
+		"ips": 666661539,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
