@@ -66,6 +66,12 @@
 		"common": 17
 	},
 	{
+		"name": "blocklist_net_ua",
+		"category": "abuse",
+		"ips": 15418,
+		"common": 1
+	},
+	{
 		"name": "blueliv_crimeserver_last_30d",
 		"category": "attacks",
 		"ips": 29451,
@@ -200,7 +206,7 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 62298,
+		"ips": 62313,
 		"common": 92
 	},
 	{
@@ -212,7 +218,7 @@
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1492992,
+		"ips": 1494272,
 		"common": 256
 	},
 	{
@@ -248,7 +254,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 85376,
+		"ips": 85377,
 		"common": 11
 	},
 	{
@@ -260,25 +266,25 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 131982,
+		"ips": 132753,
 		"common": 4
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1562022,
+		"ips": 1563302,
 		"common": 267
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9583111,
+		"ips": 9583143,
 		"common": 22
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27776,
+		"ips": 27777,
 		"common": 9
 	},
 	{
@@ -460,12 +466,6 @@
 		"category": "attacks",
 		"ips": 121265,
 		"common": 46
-	},
-	{
-		"name": "packetmail_ramnode",
-		"category": "reputation",
-		"ips": 808,
-		"common": 1
 	},
 	{
 		"name": "ri_web_proxies_30d",
