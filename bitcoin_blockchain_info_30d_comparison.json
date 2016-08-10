@@ -224,7 +224,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 85400,
+		"ips": 85402,
 		"common": 26
 	},
 	{
@@ -236,7 +236,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 126700,
+		"ips": 126699,
 		"common": 5
 	},
 	{
@@ -254,7 +254,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27844,
+		"ips": 27846,
 		"common": 1
 	},
 	{
@@ -484,6 +484,12 @@
 		"category": "reputation",
 		"ips": 46137992,
 		"common": 315
+	},
+	{
+		"name": "sblam",
+		"category": "abuse",
+		"ips": 6209,
+		"common": 1
 	},
 	{
 		"name": "snort_ipfilter",
