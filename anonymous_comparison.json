@@ -44,43 +44,49 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4336,
+		"ips": 4345,
 		"common": 4
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 5887,
+		"ips": 5883,
 		"common": 7
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 25100,
+		"ips": 25098,
 		"common": 91
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10479,
+		"ips": 10484,
 		"common": 41
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 27379,
+		"ips": 27313,
 		"common": 2
+	},
+	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 9113,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1073,
-		"common": 2
+		"ips": 1086,
+		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 15445,
+		"ips": 15449,
 		"common": 8
 	},
 	{
@@ -98,8 +104,8 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6771,
-		"common": 14
+		"ips": 6767,
+		"common": 13
 	},
 	{
 		"name": "botscout_1d",
@@ -218,7 +224,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 247190,
+		"ips": 247429,
 		"common": 56
 	},
 	{
@@ -296,19 +302,19 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 85411,
+		"ips": 85371,
 		"common": 51032
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 666368141,
+		"ips": 666368142,
 		"common": 257
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 131627,
+		"ips": 131560,
 		"common": 258
 	},
 	{
@@ -320,7 +326,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9583182,
+		"ips": 9583157,
 		"common": 87
 	},
 	{
