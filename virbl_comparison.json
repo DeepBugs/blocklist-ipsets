@@ -33,7 +33,7 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 1496064,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -44,14 +44,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 134851,
-		"common": 28
+		"ips": 134852,
+		"common": 29
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 1565254,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
@@ -63,7 +63,13 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 2
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 762691761,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_level3",
