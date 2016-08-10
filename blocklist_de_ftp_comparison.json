@@ -15,13 +15,13 @@
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 6208,
-		"common": 26
+		"common": 27
 	},
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1182,
-		"common": 58
+		"ips": 1186,
+		"common": 60
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -50,20 +50,20 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 25086,
+		"ips": 25084,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 26478,
-		"common": 411
+		"ips": 26626,
+		"common": 413
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 15490,
-		"common": 171
+		"common": 172
 	},
 	{
 		"name": "botscout_30d",
@@ -170,7 +170,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 247530,
+		"ips": 247529,
 		"common": 1
 	},
 	{
@@ -178,6 +178,12 @@
 		"category": "reputation",
 		"ips": 303760,
 		"common": 2
+	},
+	{
+		"name": "dronebl_dns_mx_on_irc",
+		"category": "reputation",
+		"ips": 2393,
+		"common": 1
 	},
 	{
 		"name": "dshield_1d",
@@ -212,20 +218,20 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 134661,
-		"common": 411
+		"ips": 134809,
+		"common": 413
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1565923,
+		"ips": 1565943,
 		"common": 11
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9583179,
-		"common": 174
+		"common": 175
 	},
 	{
 		"name": "firehol_webserver",
@@ -249,7 +255,7 @@
 		"name": "haley_ssh",
 		"category": "attacks",
 		"ips": 21598,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "iblocklist_bogons",
@@ -356,7 +362,7 @@
 	{
 		"name": "openbl_all",
 		"category": "attacks",
-		"ips": 121265,
+		"ips": 121270,
 		"common": 4
 	},
 	{
@@ -411,7 +417,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 90
+		"common": 91
 	},
 	{
 		"name": "sp_atma",
@@ -471,6 +477,6 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 38168,
-		"common": 36
+		"common": 37
 	}
 ]
