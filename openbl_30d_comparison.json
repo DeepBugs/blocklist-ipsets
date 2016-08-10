@@ -392,19 +392,19 @@
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 107520,
+		"ips": 106496,
 		"common": 160
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1497344,
+		"ips": 1496320,
 		"common": 537
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 428800,
+		"ips": 428288,
 		"common": 295
 	},
 	{
@@ -458,7 +458,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 85393,
+		"ips": 85394,
 		"common": 27
 	},
 	{
@@ -470,13 +470,13 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 138267,
-		"common": 502
+		"ips": 137243,
+		"common": 501
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1566982,
+		"ips": 1565958,
 		"common": 2042
 	},
 	{
@@ -488,7 +488,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27764,
+		"ips": 27765,
 		"common": 22
 	},
 	{
@@ -740,8 +740,8 @@
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
-		"ips": 125,
-		"common": 120
+		"ips": 130,
+		"common": 124
 	},
 	{
 		"name": "openbl_360d",
@@ -776,7 +776,7 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 1991,
+		"ips": 1988,
 		"common": 38
 	},
 	{
@@ -790,6 +790,12 @@
 		"category": "reputation",
 		"ips": 89,
 		"common": 5
+	},
+	{
+		"name": "packetmail_mail",
+		"category": "reputation",
+		"ips": 126,
+		"common": 1
 	},
 	{
 		"name": "packetmail_ramnode",
@@ -914,13 +920,13 @@
 	{
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
-		"ips": 7279,
+		"ips": 7274,
 		"common": 3
 	},
 	{
 		"name": "proxyspy_7d",
 		"category": "anonymizers",
-		"ips": 3372,
+		"ips": 3352,
 		"common": 2
 	},
 	{
@@ -1058,7 +1064,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4452,
+		"ips": 4459,
 		"common": 13
 	},
 	{
