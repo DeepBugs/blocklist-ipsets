@@ -9,13 +9,13 @@
 		"name": "atlas_attacks",
 		"category": "attacks",
 		"ips": 10,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "atlas_attacks_2d",
 		"category": "attacks",
 		"ips": 14,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "atlas_attacks_30d",
@@ -27,37 +27,25 @@
 		"name": "atlas_attacks_7d",
 		"category": "attacks",
 		"ips": 27,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "atlas_scans_2d",
 		"category": "attacks",
-		"ips": 21,
+		"ips": 20,
 		"common": 10
 	},
 	{
 		"name": "atlas_scans_30d",
 		"category": "attacks",
-		"ips": 94,
+		"ips": 96,
 		"common": 10
 	},
 	{
 		"name": "atlas_scans_7d",
 		"category": "attacks",
-		"ips": 39,
+		"ips": 37,
 		"common": 10
-	},
-	{
-		"name": "bds_atif",
-		"category": "reputation",
-		"ips": 6208,
-		"common": 1
-	},
-	{
-		"name": "dronebl_anonymizers",
-		"category": "anonymizers",
-		"ips": 247191,
-		"common": 1
 	},
 	{
 		"name": "dshield",
@@ -75,7 +63,7 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 1489920,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "dshield_7d",
@@ -105,7 +93,7 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 1559019,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "greensnow",
@@ -120,16 +108,34 @@
 		"common": 1
 	},
 	{
-		"name": "iblocklist_level2",
-		"category": "reputation",
-		"ips": 346613099,
+		"name": "lashback_ubl",
+		"category": "spam",
+		"ips": 2869680,
+		"common": 1
+	},
+	{
+		"name": "sorbs_dul",
+		"category": "spam",
+		"ips": 373245849,
+		"common": 1
+	},
+	{
+		"name": "sorbs_recent_spam",
+		"category": "spam",
+		"ips": 1288467,
+		"common": 1
+	},
+	{
+		"name": "sorbs_web",
+		"category": "spam",
+		"ips": 6099893,
 		"common": 1
 	},
 	{
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 38168,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "voipbl",
