@@ -104,43 +104,43 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 26855,
-		"common": 1912
+		"ips": 26730,
+		"common": 1915
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9116,
+		"ips": 9117,
 		"common": 1796
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1128,
-		"common": 85
+		"ips": 1141,
+		"common": 87
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 342,
+		"ips": 344,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1107,
-		"common": 22
+		"ips": 1108,
+		"common": 23
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 23031,
-		"common": 1819
+		"ips": 22894,
+		"common": 1820
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1614,
+		"ips": 1615,
 		"common": 4
 	},
 	{
@@ -198,28 +198,22 @@
 		"common": 2
 	},
 	{
-		"name": "botscout",
-		"category": "abuse",
-		"ips": 59,
-		"common": 2
-	},
-	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1295,
+		"ips": 1303,
 		"common": 26
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 20993,
+		"ips": 20998,
 		"common": 410
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 6840,
-		"common": 144
+		"ips": 6813,
+		"common": 142
 	},
 	{
 		"name": "botvrij_dst",
@@ -254,74 +248,74 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 4107,
-		"common": 138
+		"ips": 4086,
+		"common": 162
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 22710,
-		"common": 959
+		"ips": 23274,
+		"common": 1002
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 171665,
-		"common": 3190
+		"ips": 171752,
+		"common": 3192
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 95144,
-		"common": 2600
+		"ips": 95184,
+		"common": 2598
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
-		"ips": 2107,
+		"ips": 2121,
 		"common": 46
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 3689,
+		"ips": 3683,
 		"common": 50
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 71245,
+		"ips": 71250,
 		"common": 552
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 16381,
+		"ips": 16387,
 		"common": 104
 	},
 	{
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 92
+		"common": 117
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 22098,
-		"common": 1103
+		"ips": 22712,
+		"common": 1150
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 166672,
-		"common": 6720
+		"ips": 166846,
+		"common": 6724
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 112077,
-		"common": 5112
+		"ips": 112140,
+		"common": 5110
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -446,14 +440,14 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 28933,
-		"common": 1191
+		"ips": 29484,
+		"common": 1235
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 335468,
-		"common": 7205
+		"ips": 335581,
+		"common": 7209
 	},
 	{
 		"name": "firehol_anonymous",
@@ -464,14 +458,14 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 666368148,
+		"ips": 666368151,
 		"common": 23272192
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 134710,
-		"common": 2422
+		"ips": 134584,
+		"common": 2425
 	},
 	{
 		"name": "firehol_level3",
@@ -482,7 +476,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9583124,
+		"ips": 9583129,
 		"common": 6002806
 	},
 	{
@@ -728,8 +722,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 38625,
-		"common": 32
+		"ips": 38622,
+		"common": 33
 	},
 	{
 		"name": "nt_malware_http",
@@ -956,7 +950,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 1432,
+		"ips": 1433,
 		"common": 2
 	},
 	{
@@ -1058,7 +1052,7 @@
 	{
 		"name": "sslbl",
 		"category": "malware",
-		"ips": 63,
+		"ips": 66,
 		"common": 1
 	},
 	{
