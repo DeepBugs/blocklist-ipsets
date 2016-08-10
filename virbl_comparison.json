@@ -33,7 +33,7 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 1496064,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -44,14 +44,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 135683,
-		"common": 29
+		"ips": 135685,
+		"common": 31
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 1565344,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "firehol_webserver",
@@ -82,6 +82,12 @@
 		"category": "reputation",
 		"ips": 46137992,
 		"common": 2
+	},
+	{
+		"name": "sorbs_recent_spam",
+		"category": "spam",
+		"ips": 1288467,
+		"common": 1
 	},
 	{
 		"name": "sp_anti_infringement",
